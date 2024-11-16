@@ -7,3 +7,5 @@ Day 1: Started working on the instagram clone project and completed the header s
 Day 2: Completed the header and story section of the project.
 
 Day 3: Built the suggestion section, progressing to complete the major UI components for the clone.
+
+Day 4: Completed the posts section thereby finishing the home page. 
