@@ -11,3 +11,5 @@ Day 3: Built the suggestion section, progressing to complete the major UI compon
 Day 4: Completed the posts section thereby finishing the home page. 
 
 Day 5: Added logic for incrementing likes and comments count. 
+
+Day 6: Made the site responsive and hence submitted a basic clone though lot of refining and work is still required to be done on it. 
