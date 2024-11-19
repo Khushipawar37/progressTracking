@@ -13,3 +13,5 @@ Day 4: Completed the posts section thereby finishing the home page.
 Day 5: Added logic for incrementing likes and comments count. 
 
 Day 6: Made the site responsive and hence submitted a basic clone though lot of refining and work is still required to be done on it. 
+
+Day 7: Had a hectic day after externals but managed to revise react hook concepts for a while.
